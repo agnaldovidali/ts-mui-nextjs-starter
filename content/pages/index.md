@@ -40,10 +40,7 @@ sections:
           altText: Second item image
         text: |
           Materiais que recebe
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Third Card Title
         image:
