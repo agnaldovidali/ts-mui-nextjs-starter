@@ -16,4 +16,5 @@ sections:
     image:
       type: Image
       altText: Prof Agnaldo Vidali
+      url: /images/p6.jpg
 ---
