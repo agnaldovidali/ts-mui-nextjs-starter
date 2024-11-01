@@ -24,7 +24,7 @@ sections:
     subtitle: Já reciclamos mais de 350 toneladas de material
     items:
       - type: Card
-        title: First Card Title
+        title: Utilidade Pública
         image:
           type: Image
           url: /images/foto2.jpg
