@@ -42,7 +42,7 @@ sections:
           Materiais que recebe
         actions: []
       - type: Card
-        title: Third Card Title
+        title: A força das Cooperativas
         image:
           type: Image
           url: /images/coooper2.jpg
