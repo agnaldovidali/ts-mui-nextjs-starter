@@ -27,7 +27,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: SUSTENTABILIDADE NA PRÁTICA
-    subtitle: Section subtitle here
+    subtitle: Já reciclamos mais de 350 toneladas de material
     items:
       - type: Card
         title: First Card Title
