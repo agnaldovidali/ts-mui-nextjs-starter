@@ -51,7 +51,7 @@ sections:
           Cooperativas são ...
         actions: []
   - type: CardsSection
-    title: Cards Section Title
+    title: Parceiros
     subtitle: The section subtitle
     items:
       - type: Card
