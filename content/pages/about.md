@@ -15,6 +15,6 @@ sections:
       sustentabilidade e o cuidado ambiental de nossa cidade. 
     image:
       type: Image
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/p6.jpg
       altText: Image alt text
 ---
