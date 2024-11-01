@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Parceiros",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "url": "",
                 "underline": "hover"
             }
         ]
