@@ -48,7 +48,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/ARTE 15.jpg
+          url: /images/Banner Ecoponto.jpg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
