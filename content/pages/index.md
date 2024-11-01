@@ -52,7 +52,7 @@ sections:
         actions: []
   - type: CardsSection
     title: Parceiros
-    subtitle: The section subtitle
+    subtitle: População e Comerciantes que apoiam esta causa
     items:
       - type: Card
         title: Restaurante Bonapetit
