@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Cooperunidos - Cooperativa de Reciclagem de Morato
+    title: Cooperunidos - Cooperativa de Reciclagem de Fco Morato
     subtitle: Recicle hoje! Preserve o Amanhã!
     text: >
       Gere trabalho e renda através da reciclagem em nossa cidade. A
