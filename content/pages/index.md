@@ -83,7 +83,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Pinheiros
         text: ''
         image:
           type: Image
