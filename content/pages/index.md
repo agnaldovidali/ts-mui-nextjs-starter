@@ -49,10 +49,7 @@ sections:
           altText: Third item image
         text: |
           Cooperativas são ...
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
