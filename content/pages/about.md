@@ -13,4 +13,8 @@ sections:
       primeira Cooperativa de Recicladores da Cidade. O professor doa 1/3 de seu
       salário para manter este projeto funcionando. É uma prova de amor pela
       sustentabilidade e o cuidado ambiental de nossa cidade. 
+    image:
+      type: Image
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: Image alt text
 ---
