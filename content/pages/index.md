@@ -69,7 +69,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: Farmácia Crystal
         text: ''
         image:
           type: Image
