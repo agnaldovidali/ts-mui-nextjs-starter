@@ -52,7 +52,7 @@ sections:
         actions: []
   - type: CardsSection
     title: Parceiros
-    subtitle: The section subtitle
+    subtitle: A população e as empresas que apoiam o projeto
     items:
       - type: Card
         title: First Item Title
