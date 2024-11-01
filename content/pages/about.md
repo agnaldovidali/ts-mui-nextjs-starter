@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Projeto Ecoponto - Prof Agnaldo Vidali
-    subtitle: This is the subtitle
+    subtitle: uma iniciativa que tem apoiado a cooperativa desde o seu início
     text: >
       This is **Markdown** *text*.
 
