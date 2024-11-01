@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: coleta seletiva
-        url: ''
+        url: 'https://www.youtube.com/watch?v=Q8gEfvnRb_o'
         size: medium
         variant: contained
         color: primary
