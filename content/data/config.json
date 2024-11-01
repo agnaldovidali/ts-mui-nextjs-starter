@@ -35,7 +35,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Sobre o Ecoponto",
                 "underline": "hover",
                 "url": "/about"
             },
