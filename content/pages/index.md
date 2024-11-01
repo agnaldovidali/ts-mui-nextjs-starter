@@ -26,7 +26,7 @@ sections:
       url: /images/Kelly.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: SUSTENTABILIDADE NA PRÁTICA
     subtitle: Section subtitle here
     items:
       - type: Card
