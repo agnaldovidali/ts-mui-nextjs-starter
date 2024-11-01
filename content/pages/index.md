@@ -55,7 +55,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Card
-        title: First Item Title
+        title: Restaurante Bonapetit
         text: ''
         image:
           type: Image
