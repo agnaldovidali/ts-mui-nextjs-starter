@@ -6,9 +6,8 @@ sections:
     title: Cooperunidos - Cooperativa de Reciclagem de Morato
     subtitle: Recicle hoje! Preserve o Amanhã!
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Gere trabalho e renda através da reciclagem em nossa cidade. A
+      Cooperunidos possui 5 famílias de dependem de sua reciclagem
     actions:
       - type: Button
         label: Start Building
