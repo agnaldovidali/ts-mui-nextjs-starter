@@ -13,7 +13,7 @@ sections:
         label: coleta seletiva
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: medium
-        variant: outlined
+        variant: contained
         color: primary
     image:
       type: Image
