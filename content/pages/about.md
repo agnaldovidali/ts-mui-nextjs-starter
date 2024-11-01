@@ -15,6 +15,5 @@ sections:
       sustentabilidade e o cuidado ambiental de nossa cidade. 
     image:
       type: Image
-      url: /images/p6.jpg
       altText: Prof Agnaldo Vidali
 ---
