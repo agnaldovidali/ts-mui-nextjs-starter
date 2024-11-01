@@ -31,10 +31,7 @@ sections:
           altText: First item image
         text: |
           Sua doação faz um mundo melhor. 
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Second Card Title
         image:
