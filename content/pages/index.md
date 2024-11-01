@@ -33,7 +33,7 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/foto2.jpg
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
