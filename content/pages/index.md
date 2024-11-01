@@ -10,7 +10,7 @@ sections:
       Cooperunidos possui 5 famílias de dependem de sua reciclagem
     actions:
       - type: Button
-        label: Start Building
+        label: coleta seletiva
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
