@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: coleta seletiva
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: ''
         size: medium
         variant: contained
         color: primary
