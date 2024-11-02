@@ -17,7 +17,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Kelly.jpg
+      url: /images/IMG_7019.JPG
       altText: Hero section image
   - type: CardsSection
     title: SUSTENTABILIDADE NA PRÁTICA
