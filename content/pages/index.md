@@ -33,7 +33,7 @@ sections:
           Sua doação faz um mundo melhor. 
         actions: []
       - type: Card
-        title: Second Card Title
+        title: Materiais que recolhe
         image:
           type: Image
           url: /images/Banner Ecoponto.jpg
