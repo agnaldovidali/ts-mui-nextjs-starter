@@ -17,7 +17,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Kelly.jpg
+      url: /images/IMG_7019.JPG
       altText: Hero section image
   - type: CardsSection
     title: SUSTENTABILIDADE NA PRÁTICA
@@ -33,7 +33,7 @@ sections:
           Sua doação faz um mundo melhor. 
         actions: []
       - type: Card
-        title: Second Card Title
+        title: Materiais que recolhe
         image:
           type: Image
           url: /images/Banner Ecoponto.jpg
@@ -45,7 +45,7 @@ sections:
         title: A força das Cooperativas
         image:
           type: Image
-          url: /images/coooper2.jpg
+          url: /images/IMG_7052.JPG
           altText: Third item image
         text: |
           Cooperativas são ...
