@@ -25,14 +25,6 @@ sections:
       Gere trabalho e renda através da reciclagem em nossa cidade. A
       Cooperunidos possui 5 famílias de dependem de sua reciclagem
 
-
-      Gere trabalho e renda através da reciclagem em nossa cidade. A
-      Cooperunidos possui 5 famílias de dependem de sua reciclagem
-
-
-      Gere trabalho e renda através da reciclagem em nossa cidade. A
-      Cooperunidos possui 5 famílias de dependem de sua reciclagem
-
     actions:
       - type: Button
         label: coleta seletiva
