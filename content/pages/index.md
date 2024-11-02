@@ -45,7 +45,7 @@ sections:
         title: A força das Cooperativas
         image:
           type: Image
-          url: /images/coooper2.jpg
+          url: /images/IMG_7052.JPG
           altText: Third item image
         text: |
           Cooperativas são ...
